@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Skattejegeren</string>
+  <color name="red">#ff0000</color>
+  <color name="white">#ffffff</color>
+  <color name="black">#000000</color>
+  <string name="winner">You won. Hooray!</string>
+  <string name="gpsMessage">Please turn on GPS</string>
+  <string name="win_header">Congratulations!</string>
+  <string name="gpsWait">Waiting for GPS. This may take some time. Please position yourself with clear sight to the sky.</string>
+</resources>

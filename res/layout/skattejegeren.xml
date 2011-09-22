@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:id="@+id/mamma"
+	android:background="@drawable/bg">
+
+	<GridView
+		android:id="@+id/gridview"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:numColumns="4"
+		android:verticalSpacing="2dp"
+		android:horizontalSpacing="2dp"
+		android:layout_gravity="center|top"
+		android:gravity="center" />
+
+	<TextView
+		android:id="@+id/distance"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="36sp"
+		android:layout_gravity="center|bottom"
+		android:gravity="center" />
+
+</FrameLayout>
